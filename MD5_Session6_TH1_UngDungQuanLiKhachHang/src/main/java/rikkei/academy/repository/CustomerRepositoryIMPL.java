@@ -1,7 +1,6 @@
 package rikkei.academy.repository;
 import org.springframework.transaction.annotation.Transactional;
 import rikkei.academy.model.Customer;
-
 import javax.persistence.EntityManager;
 import javax.persistence.NoResultException;
 import javax.persistence.PersistenceContext;
